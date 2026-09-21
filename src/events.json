@@ -1,0 +1,18 @@
+[
+  {
+    "id": "catl-20260921", "title": "宁德时代校园宣讲会", "eventType": "宣讲会", "startAt": "2026-09-21T14:30:00+08:00", "endAt": "2026-09-21T16:00:00+08:00", "mode": "线下", "venue": "博学楼报告厅", "companies": ["宁德时代"],
+    "jobs": [{ "title": "研发工程师", "salary": "8-15K/月", "education": "本科及以上", "majors": ["电气", "自动化", "电子信息"], "location": "福建", "headcount": null }],
+    "majorTags": ["电气", "自动化", "电子信息"], "applicationUrl": "https://fjut.jysd.com/", "sourceUrl": "https://fjut.jysd.com/detail/catl-20260921", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-20T10:00:00+08:00", "updatedAt": "2026-09-20T10:00:00+08:00"
+  },
+  {
+    "id": "cetc-20260921", "title": "中电科线上专场", "eventType": "宣讲会", "startAt": "2026-09-21T18:30:00+08:00", "endAt": null, "mode": "线上", "venue": "线上宣讲", "companies": ["中国电子科技集团"],
+    "jobs": [{ "title": "嵌入式开发工程师", "salary": null, "education": "本科及以上", "majors": ["嵌入式开发", "通信", "微电子"], "location": null, "headcount": null }],
+    "majorTags": ["嵌入式开发", "通信", "微电子"], "applicationUrl": "https://fjut.jysd.com/", "sourceUrl": "https://fjut.jysd.com/detail/cetc-20260921", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-20T10:00:00+08:00", "updatedAt": "2026-09-20T10:00:00+08:00"
+  },
+  {
+    "id": "fj-fair-20260922", "title": "福建省秋季人才双选会", "eventType": "双选会", "startAt": "2026-09-22T09:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "海峡国际会展中心", "companies": [], "jobs": [], "majorTags": ["不限专业"], "applicationUrl": "https://www.fj99.org.cn/bys/", "sourceUrl": "https://www.fj99.org.cn/bys/", "sourceName": "福建就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-20T10:00:00+08:00", "updatedAt": "2026-09-20T10:00:00+08:00"
+  },
+  {
+    "id": "sgcc-20260925", "title": "国网福建电力专场", "eventType": "宣讲会", "startAt": "2026-09-25T15:00:00+08:00", "endAt": null, "mode": "线下", "venue": "旗山校区", "companies": ["国网福建电力"], "jobs": [], "majorTags": ["电气", "电力电子"], "applicationUrl": "https://fjut.jysd.com/", "sourceUrl": "https://fjut.jysd.com/detail/sgcc-20260925", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-20T10:00:00+08:00", "updatedAt": "2026-09-20T10:00:00+08:00"
+  }
+]

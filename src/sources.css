@@ -1,0 +1,18 @@
+.sources {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin: 10px 0 70px;
+  padding: 34px 0;
+  border-top: 1px solid var(--line);
+}
+
+.sources h2 { margin: 0; font-size: 24px; }
+.sources p { max-width: 520px; color: var(--muted); font-size: 13px; line-height: 1.7; }
+.sources ul { margin: 0; padding: 0; list-style: none; color: var(--muted); font-size: 13px; line-height: 2; }
+.sources a { color: var(--accent); text-decoration: none; }
+.sources a:hover { text-decoration: underline; }
+
+@media (max-width: 760px) {
+  .sources { grid-template-columns: 1fr; gap: 16px; }
+}
