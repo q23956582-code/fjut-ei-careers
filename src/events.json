@@ -1,18 +1,22 @@
 [
   {
-    "id": "catl-20260921", "title": "宁德时代校园宣讲会", "eventType": "宣讲会", "startAt": "2026-09-21T14:30:00+08:00", "endAt": "2026-09-21T16:00:00+08:00", "mode": "线下", "venue": "博学楼报告厅", "companies": ["宁德时代"],
-    "jobs": [{ "title": "研发工程师", "salary": "8-15K/月", "education": "本科及以上", "majors": ["电气", "自动化", "电子信息"], "location": "福建", "headcount": null }],
-    "majorTags": ["电气", "自动化", "电子信息"], "applicationUrl": "https://fjut.jysd.com/", "sourceUrl": "https://fjut.jysd.com/detail/catl-20260921", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-20T10:00:00+08:00", "updatedAt": "2026-09-20T10:00:00+08:00"
+    "id": "hongfa-20260922", "title": "厦门宏发电声股份有限公司专场宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T15:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福州大学旗山校区文科楼公共教室4-101", "companies": ["厦门宏发电声股份有限公司"],
+    "jobs": [{ "title": "产品设计、电气设计、工艺技术、设备技术等", "salary": "未公布", "education": "本科及以上", "majors": ["电气", "电子", "自动化", "通信", "智能控制", "理工科"], "location": "厦门、漳州等", "headcount": null }],
+    "majorTags": ["电气", "电子", "自动化", "通信", "智能控制", "理工科"], "applicationUrl": "https://hongfa.zhiye.com/home", "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=adbb597ac31ae914032b7725ed5d0b98", "sourceName": "福建人才联合网（福州大学）", "reviewStatus": "approved", "reviewedAt": "2026-09-21T23:40:00+08:00", "updatedAt": "2026-09-21T23:40:00+08:00"
   },
   {
-    "id": "cetc-20260921", "title": "中电科线上专场", "eventType": "宣讲会", "startAt": "2026-09-21T18:30:00+08:00", "endAt": null, "mode": "线上", "venue": "线上宣讲", "companies": ["中国电子科技集团"],
-    "jobs": [{ "title": "嵌入式开发工程师", "salary": null, "education": "本科及以上", "majors": ["嵌入式开发", "通信", "微电子"], "location": null, "headcount": null }],
-    "majorTags": ["嵌入式开发", "通信", "微电子"], "applicationUrl": "https://fjut.jysd.com/", "sourceUrl": "https://fjut.jysd.com/detail/cetc-20260921", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-20T10:00:00+08:00", "updatedAt": "2026-09-20T10:00:00+08:00"
+    "id": "smecs-20260922", "title": "芯联集成电路制造股份有限公司专场宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T15:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福州大学学生活动中心多功能厅", "companies": ["芯联集成电路制造股份有限公司"],
+    "jobs": [{ "title": "研发类、工程技术类、职能运营类", "salary": "16–24万元/年", "education": "本科及以上（研发类硕士）", "majors": ["半导体", "集成电路", "微电子", "电子信息", "通信", "电力电子", "自动化", "电气", "理工科"], "location": "绍兴、上海", "headcount": 536 }],
+    "majorTags": ["半导体", "微电子", "电子信息", "通信", "电力电子", "自动化", "电气", "理工科"], "applicationUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=691da072db5f5baad79005b770a68b93", "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=691da072db5f5baad79005b770a68b93", "sourceName": "福建人才联合网（福州大学）", "reviewStatus": "approved", "reviewedAt": "2026-09-21T23:40:00+08:00", "updatedAt": "2026-09-21T23:40:00+08:00"
   },
   {
-    "id": "fj-fair-20260922", "title": "福建省秋季人才双选会", "eventType": "双选会", "startAt": "2026-09-22T09:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "海峡国际会展中心", "companies": [], "jobs": [], "majorTags": ["不限专业"], "applicationUrl": "https://www.fj99.org.cn/bys/", "sourceUrl": "https://www.fj99.org.cn/bys/", "sourceName": "福建就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-20T10:00:00+08:00", "updatedAt": "2026-09-20T10:00:00+08:00"
+    "id": "yongfu-20260922", "title": "福建永福电力设计股份有限公司专场宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T15:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福州大学电气学院北230", "companies": ["福建永福电力设计股份有限公司"],
+    "jobs": [{ "title": "电气工程师、热控工程师、能源研究工程师、电力电子工程师", "salary": "未公布", "education": "本科及以上", "majors": ["电气工程及其自动化", "自动化", "电力电子与电力传动"], "location": "福州", "headcount": null }],
+    "majorTags": ["电气", "自动化", "电力电子"], "applicationUrl": "https://vip.pinpin.com/yongfu/home", "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=c2dc0f4ee0b5b247b11a5900f1c202ff", "sourceName": "福建人才联合网（福州大学）", "reviewStatus": "approved", "reviewedAt": "2026-09-21T23:40:00+08:00", "updatedAt": "2026-09-21T23:40:00+08:00"
   },
   {
-    "id": "sgcc-20260925", "title": "国网福建电力专场", "eventType": "宣讲会", "startAt": "2026-09-25T15:00:00+08:00", "endAt": null, "mode": "线下", "venue": "旗山校区", "companies": ["国网福建电力"], "jobs": [], "majorTags": ["电气", "电力电子"], "applicationUrl": "https://fjut.jysd.com/", "sourceUrl": "https://fjut.jysd.com/detail/sgcc-20260925", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-20T10:00:00+08:00", "updatedAt": "2026-09-20T10:00:00+08:00"
+    "id": "yinlun-20260922", "title": "浙江银轮新能源热管理系统有限公司专场宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T15:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福州大学机械北415", "companies": ["浙江银轮新能源热管理系统有限公司"],
+    "jobs": [{ "title": "设计工程师", "salary": "面议", "education": "本科及以上", "majors": ["电子信息", "自动化", "智能感知", "测控"], "location": "浙江台州", "headcount": 10 }],
+    "majorTags": ["电子信息", "自动化"], "applicationUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=3c6e4099a2af421d7cb4fff4148bcabc", "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=3c6e4099a2af421d7cb4fff4148bcabc", "sourceName": "福建人才联合网（福州大学）", "reviewStatus": "approved", "reviewedAt": "2026-09-21T23:40:00+08:00", "updatedAt": "2026-09-21T23:40:00+08:00"
   }
 ]

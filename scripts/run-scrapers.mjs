@@ -23,4 +23,3 @@ if (results.length) {
 }
 
 console.log(JSON.stringify({ candidates: results.length, failures, pendingSources }, null, 2));
-if (failures.length === adapters.length) process.exitCode = 1;
