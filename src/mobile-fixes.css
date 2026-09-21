@@ -1,0 +1,5 @@
+@media (max-width: 760px) {
+  .day { grid-template-columns: 100px 14px minmax(0, 1fr); }
+  .date { padding-right: 8px; }
+  .date b { font-size: 18px; white-space: nowrap; }
+}

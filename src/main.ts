@@ -1,5 +1,6 @@
 import "./styles.css";
 import "./sources.css";
+import "./mobile-fixes.css";
 import rawEvents from "./events.json";
 import { dedupeEvents, isRelevant, sortEvents, validateEvent } from "./domain";
 import type { RecruitmentEvent } from "./types";

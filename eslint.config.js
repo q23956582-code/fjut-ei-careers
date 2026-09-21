@@ -8,6 +8,6 @@ export default tseslint.config(
   { languageOptions: { globals: { document: "readonly", HTMLDialogElement: "readonly" } } },
   {
     files: ["scripts/**/*.{js,mjs}"],
-    languageOptions: { globals: { process: "readonly", console: "readonly", URL: "readonly" } },
+    languageOptions: { globals: { process: "readonly", console: "readonly", URL: "readonly", fetch: "readonly", AbortSignal: "readonly" } },
   },
 );
