@@ -1,0 +1,40 @@
+name: Create candidate review
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  create-candidate:
+    if: contains(github.event.issue.labels.*.name, 'recruitment-entry') || contains(github.event.issue.labels.*.name, 'recruitment-source')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Convert issue to candidate
+        run: node scripts/issue-to-candidate.mjs
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_LABELS: ${{ toJson(github.event.issue.labels.*.name) }}
+      - name: Open review pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          branch="candidate/issue-${ISSUE_NUMBER}-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add data/candidates/
+          git commit -m "data: add candidate from issue ${ISSUE_NUMBER}"
+          git push origin "$branch"
+          gh pr create --base main --head "$branch" --title "审核招聘信息 #${ISSUE_NUMBER}" --body "由 #${ISSUE_NUMBER} 生成。请核对并补全字段，确认后再合并发布。"

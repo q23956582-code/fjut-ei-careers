@@ -1,0 +1,19 @@
+name: 提交招聘链接
+description: 提交企业官网、就业网或公众号推文链接，由管理员整理
+title: "[来源链接] "
+labels: ["recruitment-source"]
+body:
+  - type: input
+    id: source_url
+    attributes: { label: 招聘信息链接, placeholder: https:// }
+    validations: { required: true }
+  - type: textarea
+    id: notes
+    attributes: { label: 已知信息, description: 可补充企业、活动时间、地点、岗位或公众号正文 }
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 信息确认
+      options:
+        - label: 我理解此信息需要人工审核，不会直接发布
+          required: true

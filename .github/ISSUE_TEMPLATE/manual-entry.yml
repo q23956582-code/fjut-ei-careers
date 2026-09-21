@@ -1,0 +1,58 @@
+name: 手动录入招聘活动
+description: 提交结构化的宣讲会或双选会信息，进入待审核流程
+title: "[招聘活动] "
+labels: ["recruitment-entry"]
+body:
+  - type: input
+    id: event_title
+    attributes: { label: 活动名称, placeholder: 例如：某企业校园宣讲会 }
+    validations: { required: true }
+  - type: dropdown
+    id: event_type
+    attributes: { label: 活动类型, options: [宣讲会, 双选会] }
+    validations: { required: true }
+  - type: input
+    id: start_at
+    attributes: { label: 开始时间, description: 使用北京时间，格式为 YYYY-MM-DD HH:mm, placeholder: "2026-09-25 15:00" }
+    validations: { required: true }
+  - type: input
+    id: end_at
+    attributes: { label: 结束时间, description: 可不填，格式同上 }
+  - type: dropdown
+    id: mode
+    attributes: { label: 举办方式, options: [线下, 线上, 混合] }
+    validations: { required: true }
+  - type: input
+    id: venue
+    attributes: { label: 地点或线上平台 }
+    validations: { required: true }
+  - type: input
+    id: company
+    attributes: { label: 企业名称 }
+    validations: { required: true }
+  - type: textarea
+    id: jobs
+    attributes: { label: 招聘岗位, description: 每行一个岗位，可在岗位名后补充薪酬、学历和地点 }
+  - type: input
+    id: majors
+    attributes: { label: 专业要求, description: 使用中文逗号分隔；不限专业请直接填写“不限专业” }
+    validations: { required: true }
+  - type: input
+    id: application_url
+    attributes: { label: 网申或报名链接 }
+    validations: { required: true }
+  - type: input
+    id: source_url
+    attributes: { label: 原始来源链接 }
+    validations: { required: true }
+  - type: input
+    id: source_name
+    attributes: { label: 来源名称, placeholder: 例如：企业官网 }
+    validations: { required: true }
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 信息确认
+      options:
+        - label: 我已核对时间、地点和链接，提交后仍需管理员审核
+          required: true

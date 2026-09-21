@@ -6,4 +6,8 @@ export default tseslint.config(
   js.configs.recommended,
   ...tseslint.configs.recommended,
   { languageOptions: { globals: { document: "readonly", HTMLDialogElement: "readonly" } } },
+  {
+    files: ["scripts/**/*.{js,mjs}"],
+    languageOptions: { globals: { process: "readonly", console: "readonly", URL: "readonly" } },
+  },
 );

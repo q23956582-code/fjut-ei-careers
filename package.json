@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc --noEmit && vite build --base=./",
     "lint": "eslint .",
-    "test": "vitest run",
+    "test": "vitest run --exclude node_modules",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
@@ -16,6 +16,7 @@
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.43.0",
     "vite": "^7.1.5",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.4",
+    "yaml": "^2.9.1"
   }
 }
