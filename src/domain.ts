@@ -1,4 +1,4 @@
-import type { RecruitmentEvent } from "./types";
+import type { Job, RecruitmentEvent } from "./types";
 
 export const TARGET_KEYWORDS = [
   "电气", "电力电子", "智能控制", "新一代电子信息技术", "自动化", "电子信息",
@@ -34,6 +34,17 @@ export function dedupeEvents(events: RecruitmentEvent[]): RecruitmentEvent[] {
     seenSignatures.add(signature);
     return true;
   });
+}
+
+export function summarizeEducation(jobs: Job[]): string {
+  const values = jobs.map((job) => job.education ?? "");
+  if (values.some((value) => value.includes("不限"))) return "学历不限";
+  const hasUndergraduate = values.some((value) => value.includes("本科"));
+  const hasGraduate = values.some((value) => /硕士|博士|研究生/.test(value));
+  if (hasUndergraduate && hasGraduate) return "本科、研究生";
+  if (hasGraduate) return "研究生";
+  if (hasUndergraduate) return "本科及以上";
+  return "未公布";
 }
 
 export function validateEvent(value: unknown): value is RecruitmentEvent {

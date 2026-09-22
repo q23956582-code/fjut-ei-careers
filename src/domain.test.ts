@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import rawEvents from "./events.json";
-import { dedupeEvents, isRelevant, sortEvents, validateEvent } from "./domain";
+import { dedupeEvents, isRelevant, sortEvents, summarizeEducation, validateEvent } from "./domain";
 import type { RecruitmentEvent } from "./types";
 
 const base: RecruitmentEvent = {
@@ -39,6 +39,15 @@ describe("recruitment domain", () => {
       expect(event.jobs.length, event.title).toBeGreaterThan(0);
       event.jobs.forEach((job) => expect(job.majors.length, `${event.title} / ${job.title}`).toBeGreaterThan(0));
     }
+  });
+
+  it("summarizes education requirements across all jobs in an event", () => {
+    const job = base.jobs[0]!;
+    expect(summarizeEducation([{ ...job, education: "本科" }])).toBe("本科及以上");
+    expect(summarizeEducation([{ ...job, education: "本科" }, { ...job, education: "硕士" }])).toBe("本科、研究生");
+    expect(summarizeEducation([{ ...job, education: "博士" }])).toBe("研究生");
+    expect(summarizeEducation([{ ...job, education: "不限" }])).toBe("学历不限");
+    expect(summarizeEducation([{ ...job, education: null }])).toBe("未公布");
   });
 
   it("rejects missing required fields and invalid URLs", () => {

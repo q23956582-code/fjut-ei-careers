@@ -2,7 +2,7 @@ import "./styles.css";
 import "./sources.css";
 import "./mobile-fixes.css";
 import rawEvents from "./events.json";
-import { dedupeEvents, isRelevant, sortEvents, validateEvent } from "./domain";
+import { dedupeEvents, isRelevant, sortEvents, summarizeEducation, validateEvent } from "./domain";
 import type { RecruitmentEvent } from "./types";
 
 const events = sortEvents((rawEvents as RecruitmentEvent[]).filter(validateEvent).filter(isRelevant));
@@ -60,9 +60,7 @@ function render(): void {
 }
 
 function eventMarkup(event: RecruitmentEvent): string {
-  const job = event.jobs[0];
-  const jobLine = job ? `<div class="roles"><b>${esc(job.title)}</b><span>${esc(job.salary ?? "薪酬未公布")}</span><span>${esc(job.education ?? "学历未公布")}</span></div>` : "";
-  return `<div class="event"><div class="time"><b>${timeLabel(event.startAt)}</b><span>${esc(event.mode)}${esc(event.eventType)}</span></div><div><h2>${esc(event.title)}</h2><div class="meta"><span>${esc(event.venue)}</span><span>${esc(event.majorTags.join("、"))}</span></div>${jobLine}<div class="verified">信息已核验 <span>以企业或主办方官方通知为准</span></div></div><button class="detail-button" data-event="${esc(event.id)}">查看详情</button></div>`;
+  return `<div class="event"><div class="time"><b>${timeLabel(event.startAt)}</b><span>${esc(event.mode)}${esc(event.eventType)}</span></div><div><h2>${esc(event.title)}</h2><dl class="event-facts"><div><dt>地点：</dt><dd>${esc(event.venue)}</dd></div><div><dt>需求学历：</dt><dd>${esc(summarizeEducation(event.jobs))}</dd></div><div><dt>需求专业：</dt><dd>${esc(event.majorTags.join("、") || "未公布")}</dd></div></dl><div class="verified">信息已核验 <span>以企业或主办方官方通知为准</span></div></div><button class="detail-button" data-event="${esc(event.id)}">查看详情</button></div>`;
 }
 
 function showDetails(id: string): void {
