@@ -2,7 +2,7 @@ import "./styles.css";
 import "./sources.css";
 import "./mobile-fixes.css";
 import rawEvents from "./events.json";
-import { dedupeEvents, isRelevant, sortEvents, validateEvent } from "./domain";
+import { dedupeEvents, isRelevant, sortEvents, splitJobRows, validateEvent } from "./domain";
 import type { RecruitmentEvent } from "./types";
 
 const events = sortEvents((rawEvents as RecruitmentEvent[]).filter(validateEvent).filter(isRelevant));
@@ -68,7 +68,9 @@ function eventMarkup(event: RecruitmentEvent): string {
 function showDetails(id: string): void {
   const event = events.find((item) => item.id === id);
   if (!event) return;
-  detailContent.innerHTML = `<p class="detail-type">${esc(event.eventType)} / ${esc(event.mode)}</p><h2>${esc(event.title)}</h2><dl><div><dt>时间</dt><dd>${esc(dateLabel(event.startAt))} ${esc(timeLabel(event.startAt))}</dd></div><div><dt>地点</dt><dd>${esc(event.venue)}</dd></div><div><dt>企业</dt><dd>${esc(event.companies.join("、") || "未公布")}</dd></div><div><dt>专业</dt><dd>${esc(event.majorTags.join("、"))}</dd></div></dl><h3>招聘岗位</h3>${event.jobs.length ? event.jobs.map((job) => `<section class="job"><b>${esc(job.title)}</b><p>${esc(job.salary ?? "薪酬未公布")} / ${esc(job.education ?? "学历未公布")} / ${esc(job.location ?? "工作地点未公布")}</p></section>`).join("") : `<p>岗位信息未公布。</p>`}<div class="detail-actions"><a href="${esc(event.applicationUrl)}" target="_blank" rel="noopener noreferrer">打开网申入口</a><a href="${esc(event.sourceUrl)}" target="_blank" rel="noopener noreferrer">查看原始来源</a></div><p class="source">来源：${esc(event.sourceName)}。信息以官方通知为准</p>`;
+  const jobs = splitJobRows(event.jobs);
+  const jobList = jobs.length ? `<div class="job-list">${jobs.map((job) => `<section class="job"><b>${esc(job.title)}</b><span class="job-salary">${esc(job.salary ?? "薪酬未公布")}</span><p>${esc(job.education ?? "学历未公布")} · ${esc(job.location ?? "工作地点未公布")}</p></section>`).join("")}</div>` : `<p>岗位信息未公布。</p>`;
+  detailContent.innerHTML = `<p class="detail-type">${esc(event.eventType)} / ${esc(event.mode)}</p><h2>${esc(event.title)}</h2><dl><div><dt>时间</dt><dd>${esc(dateLabel(event.startAt))} ${esc(timeLabel(event.startAt))}</dd></div><div><dt>地点</dt><dd>${esc(event.venue)}</dd></div><div><dt>企业</dt><dd>${esc(event.companies.join("、") || "未公布")}</dd></div><div><dt>专业</dt><dd>${esc(event.majorTags.join("、"))}</dd></div></dl><h3>招聘岗位</h3>${jobList}<div class="detail-actions"><a href="${esc(event.applicationUrl)}" target="_blank" rel="noopener noreferrer">打开网申入口</a><a href="${esc(event.sourceUrl)}" target="_blank" rel="noopener noreferrer">查看原始来源</a></div><p class="source">来源：${esc(event.sourceName)}。信息以官方通知为准</p>`;
   dialog.showModal();
 }
 

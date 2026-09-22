@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { dedupeEvents, isRelevant, sortEvents, validateEvent } from "./domain";
+import { dedupeEvents, isRelevant, sortEvents, splitJobRows, validateEvent } from "./domain";
 import type { RecruitmentEvent } from "./types";
 
 const base: RecruitmentEvent = {
@@ -25,6 +25,20 @@ describe("recruitment domain", () => {
   it("deduplicates by source URL and normalized signature", () => {
     expect(dedupeEvents([base, { ...base, id: "copy" }])).toHaveLength(1);
     expect(dedupeEvents([base, { ...base, id: "copy", sourceUrl: "https://other.example/source" }])).toHaveLength(1);
+  });
+
+  it("gives every listed role its own salary-bearing row", () => {
+    const grouped = [{ ...base.jobs[0]!, title: "研发工程师、设备工程师", salary: "6000–13000元/月" }];
+    expect(splitJobRows(grouped).map((job) => [job.title, job.salary])).toEqual([
+      ["研发工程师", "6000–13000元/月"],
+      ["设备工程师", "6000–13000元/月"],
+    ]);
+
+    const distinct = [
+      { ...base.jobs[0]!, title: "研发工程师", salary: "10000元/月" },
+      { ...base.jobs[0]!, title: "设备工程师", salary: "8000元/月" },
+    ];
+    expect(splitJobRows(distinct).map((job) => job.salary)).toEqual(["10000元/月", "8000元/月"]);
   });
 
   it("rejects missing required fields and invalid URLs", () => {
