@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
-import { dedupeEvents, isRelevant, sortEvents, splitJobRows, validateEvent } from "./domain";
+import rawEvents from "./events.json";
+import { dedupeEvents, isRelevant, sortEvents, validateEvent } from "./domain";
 import type { RecruitmentEvent } from "./types";
 
 const base: RecruitmentEvent = {
@@ -27,18 +28,17 @@ describe("recruitment domain", () => {
     expect(dedupeEvents([base, { ...base, id: "copy", sourceUrl: "https://other.example/source" }])).toHaveLength(1);
   });
 
-  it("gives every listed role its own salary-bearing row", () => {
-    const grouped = [{ ...base.jobs[0]!, title: "研发工程师、设备工程师", salary: "6000–13000元/月" }];
-    expect(splitJobRows(grouped).map((job) => [job.title, job.salary])).toEqual([
-      ["研发工程师", "6000–13000元/月"],
-      ["设备工程师", "6000–13000元/月"],
-    ]);
-
-    const distinct = [
-      { ...base.jobs[0]!, title: "研发工程师", salary: "10000元/月" },
-      { ...base.jobs[0]!, title: "设备工程师", salary: "8000元/月" },
-    ];
-    expect(splitJobRows(distinct).map((job) => job.salary)).toEqual(["10000元/月", "8000元/月"]);
+  it("keeps verified salary and major requirements on every published job", () => {
+    const events = rawEvents as RecruitmentEvent[];
+    const jinjiang = events.find((event) => event.id === "fjut-jinjiang-210169")!;
+    expect(jinjiang.jobs).toEqual(expect.arrayContaining([
+      expect.objectContaining({ title: "研发工程师", salary: "8000–13000元/月", majors: ["微电子科学与工程", "电子信息工程"] }),
+      expect.objectContaining({ title: "设备助理工程师", salary: "6000–10000元/月", majors: ["机械设计制造及其自动化", "电气工程及其自动化"] }),
+    ]));
+    for (const event of events.filter(isRelevant)) {
+      expect(event.jobs.length, event.title).toBeGreaterThan(0);
+      event.jobs.forEach((job) => expect(job.majors.length, `${event.title} / ${job.title}`).toBeGreaterThan(0));
+    }
   });
 
   it("rejects missing required fields and invalid URLs", () => {

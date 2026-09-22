@@ -1,4 +1,4 @@
-import type { Job, RecruitmentEvent } from "./types";
+import type { RecruitmentEvent } from "./types";
 
 export const TARGET_KEYWORDS = [
   "电气", "电力电子", "智能控制", "新一代电子信息技术", "自动化", "电子信息",
@@ -33,13 +33,6 @@ export function dedupeEvents(events: RecruitmentEvent[]): RecruitmentEvent[] {
     seenSources.add(event.sourceUrl);
     seenSignatures.add(signature);
     return true;
-  });
-}
-
-export function splitJobRows(jobs: Job[]): Job[] {
-  return jobs.flatMap((job) => {
-    const titles = job.title.split("、").map((title) => title.trim()).filter(Boolean);
-    return titles.map((title) => ({ ...job, title }));
   });
 }
 

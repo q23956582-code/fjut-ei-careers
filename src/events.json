@@ -1,107 +1,1488 @@
 [
   {
-    "id": "hongfa-20260922", "title": "厦门宏发电声股份有限公司专场宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T15:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福州大学旗山校区文科楼公共教室4-101", "companies": ["厦门宏发电声股份有限公司"],
-    "jobs": [{ "title": "产品设计、电气设计、工艺技术、设备技术等", "salary": "未公布", "education": "本科及以上", "majors": ["电气", "电子", "自动化", "通信", "智能控制", "理工科"], "location": "厦门、漳州等", "headcount": null }],
-    "majorTags": ["电气", "电子", "自动化", "通信", "智能控制", "理工科"], "applicationUrl": "https://hongfa.zhiye.com/home", "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=adbb597ac31ae914032b7725ed5d0b98", "sourceName": "福建人才联合网（福州大学）", "reviewStatus": "approved", "reviewedAt": "2026-09-21T23:40:00+08:00", "updatedAt": "2026-09-21T23:40:00+08:00"
+    "id": "hongfa-20260922",
+    "title": "厦门宏发电声股份有限公司专场宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-22T15:00:00+08:00",
+    "endAt": "2026-09-22T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福州大学旗山校区文科楼公共教室4-101",
+    "companies": [
+      "厦门宏发电声股份有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "博士后",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "高分子合成材料",
+          "注塑成型",
+          "金属材料成型",
+          "材料加工",
+          "焊接仿真",
+          "热仿真",
+          "机械力学",
+          "电弧仿真",
+          "可靠性研究",
+          "电气控制",
+          "智能控制研究",
+          "AI仿真优化与算法等"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：成都/德阳",
+        "headcount": null
+      },
+      {
+        "title": "产品设计",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电气",
+          "机械",
+          "电子",
+          "自动化",
+          "光电",
+          "通信工程相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：成都/德阳",
+        "headcount": null
+      },
+      {
+        "title": "电气设计",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电气",
+          "机械",
+          "电子",
+          "自动化相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：成都/德阳",
+        "headcount": null
+      },
+      {
+        "title": "工艺技术",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电气",
+          "机械",
+          "电子",
+          "自动化",
+          "材料",
+          "化学相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：成都/德阳",
+        "headcount": null
+      },
+      {
+        "title": "检测分析",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电气",
+          "机械",
+          "电子",
+          "测控相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：成都/德阳",
+        "headcount": null
+      },
+      {
+        "title": "设备技术",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "机械",
+          "电气",
+          "材料相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：成都/德阳",
+        "headcount": null
+      },
+      {
+        "title": "工厂管培生",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "企业管理",
+          "工业工程",
+          "工科背景的管理类",
+          "理工类相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：成都/德阳",
+        "headcount": null
+      },
+      {
+        "title": "人力资源管理",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "人力资源管理",
+          "工商管理",
+          "理工类相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：德阳",
+        "headcount": null
+      },
+      {
+        "title": "质量管理",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "质量管理",
+          "理工类相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：德阳",
+        "headcount": null
+      },
+      {
+        "title": "计划管理",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "经管类",
+          "理工类相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：德阳",
+        "headcount": null
+      },
+      {
+        "title": "采购管理",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "经管类",
+          "理工类相关专业"
+        ],
+        "location": "福建：厦门/漳州浙江：舟山/诸暨/宁波陕西：西安四川：德阳",
+        "headcount": null
+      },
+      {
+        "title": "市场分析",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "理工类",
+          "市场营销",
+          "英语相关专业"
+        ],
+        "location": "福建：厦门上海北京四川：成都浙江：舟山",
+        "headcount": null
+      },
+      {
+        "title": "产品管理",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电气",
+          "机械",
+          "电子",
+          "自动化相关专业"
+        ],
+        "location": "福建：厦门上海北京四川：成都浙江：舟山",
+        "headcount": null
+      },
+      {
+        "title": "技术支持",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电气",
+          "机械",
+          "电子",
+          "自动化相关专业"
+        ],
+        "location": "福建：厦门上海北京四川：成都浙江：舟山",
+        "headcount": null
+      },
+      {
+        "title": "国际销售",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "国贸",
+          "英语",
+          "理工类",
+          "市场营销相关专业"
+        ],
+        "location": "福建：厦门上海北京四川：成都浙江：舟山",
+        "headcount": null
+      },
+      {
+        "title": "国内销售",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "理工类",
+          "市场营销相关专业"
+        ],
+        "location": "福建：厦门上海北京四川：成都浙江：舟山",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "智能控制",
+      "自动化",
+      "通信",
+      "理工科"
+    ],
+    "applicationUrl": "https://hongfa.zhiye.com/home",
+    "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=adbb597ac31ae914032b7725ed5d0b98",
+    "sourceName": "福建人才联合网（福州大学）",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-21T23:40:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "smecs-20260922", "title": "芯联集成电路制造股份有限公司专场宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T15:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福州大学学生活动中心多功能厅", "companies": ["芯联集成电路制造股份有限公司"],
-    "jobs": [{ "title": "研发类、工程技术类、职能运营类", "salary": "16–24万元/年", "education": "本科及以上（研发类硕士）", "majors": ["半导体", "集成电路", "微电子", "电子信息", "通信", "电力电子", "自动化", "电气", "理工科"], "location": "绍兴、上海", "headcount": 536 }],
-    "majorTags": ["半导体", "微电子", "电子信息", "通信", "电力电子", "自动化", "电气", "理工科"], "applicationUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=691da072db5f5baad79005b770a68b93", "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=691da072db5f5baad79005b770a68b93", "sourceName": "福建人才联合网（福州大学）", "reviewStatus": "approved", "reviewedAt": "2026-09-21T23:40:00+08:00", "updatedAt": "2026-09-21T23:40:00+08:00"
+    "id": "smecs-20260922",
+    "title": "芯联集成电路制造股份有限公司专场宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-22T15:00:00+08:00",
+    "endAt": "2026-09-22T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福州大学学生活动中心多功能厅",
+    "companies": [
+      "芯联集成电路制造股份有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "研发类",
+        "salary": "16–24万元/年",
+        "education": "硕士",
+        "majors": [
+          "半导体",
+          "集成电路",
+          "微电子",
+          "电子信息",
+          "电子科学技术",
+          "通信工程",
+          "电力电子",
+          "电力传动",
+          "物理学类",
+          "材料类等相关专业"
+        ],
+        "location": "绍兴、上海张江",
+        "headcount": 88
+      },
+      {
+        "title": "工程技术类",
+        "salary": "16–24万元/年",
+        "education": "本科及以上",
+        "majors": [
+          "集成电路",
+          "微电子",
+          "电子信息",
+          "通信工程",
+          "机械",
+          "自动化",
+          "电气",
+          "机器人",
+          "物联网",
+          "管理类等理工类相关专业"
+        ],
+        "location": "绍兴",
+        "headcount": 280
+      },
+      {
+        "title": "职能运营类",
+        "salary": "16–24万元/年",
+        "education": "本科及以上",
+        "majors": [
+          "理工类",
+          "管理类",
+          "土木环境类",
+          "营销类等相关专业"
+        ],
+        "location": "绍兴、上海临港",
+        "headcount": 168
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "电力电子",
+      "智能控制",
+      "自动化",
+      "电子信息",
+      "电子类",
+      "通信",
+      "微电子",
+      "半导体",
+      "理工科"
+    ],
+    "applicationUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=691da072db5f5baad79005b770a68b93",
+    "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=691da072db5f5baad79005b770a68b93",
+    "sourceName": "福建人才联合网（福州大学）",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-21T23:40:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "yongfu-20260922", "title": "福建永福电力设计股份有限公司专场宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T15:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福州大学电气学院北230", "companies": ["福建永福电力设计股份有限公司"],
-    "jobs": [{ "title": "电气工程师、热控工程师、能源研究工程师、电力电子工程师", "salary": "未公布", "education": "本科及以上", "majors": ["电气工程及其自动化", "自动化", "电力电子与电力传动"], "location": "福州", "headcount": null }],
-    "majorTags": ["电气", "自动化", "电力电子"], "applicationUrl": "https://vip.pinpin.com/yongfu/home", "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=c2dc0f4ee0b5b247b11a5900f1c202ff", "sourceName": "福建人才联合网（福州大学）", "reviewStatus": "approved", "reviewedAt": "2026-09-21T23:40:00+08:00", "updatedAt": "2026-09-21T23:40:00+08:00"
+    "id": "yongfu-20260922",
+    "title": "福建永福电力设计股份有限公司专场宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-22T15:00:00+08:00",
+    "endAt": "2026-09-22T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福州大学电气学院北230",
+    "companies": [
+      "福建永福电力设计股份有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "电气工程师",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电气工程及自动化等相关专业"
+        ],
+        "location": "福州",
+        "headcount": null
+      },
+      {
+        "title": "热控工程师",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "自动化等相关专业"
+        ],
+        "location": "福州",
+        "headcount": null
+      },
+      {
+        "title": "能源研究工程师",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电气工程及其自动化等相关专业"
+        ],
+        "location": "福州",
+        "headcount": null
+      },
+      {
+        "title": "电力电子工程师",
+        "salary": null,
+        "education": null,
+        "majors": [
+          "电力电子与电力传动等相关专业"
+        ],
+        "location": "福州",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "电力电子",
+      "自动化"
+    ],
+    "applicationUrl": "https://vip.pinpin.com/yongfu/home",
+    "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=c2dc0f4ee0b5b247b11a5900f1c202ff",
+    "sourceName": "福建人才联合网（福州大学）",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-21T23:40:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "yinlun-20260922", "title": "浙江银轮新能源热管理系统有限公司专场宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T15:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福州大学机械北415", "companies": ["浙江银轮新能源热管理系统有限公司"],
-    "jobs": [{ "title": "设计工程师", "salary": "面议", "education": "本科及以上", "majors": ["电子信息", "自动化", "智能感知", "测控"], "location": "浙江台州", "headcount": 10 }],
-    "majorTags": ["电子信息", "自动化"], "applicationUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=3c6e4099a2af421d7cb4fff4148bcabc", "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=3c6e4099a2af421d7cb4fff4148bcabc", "sourceName": "福建人才联合网（福州大学）", "reviewStatus": "approved", "reviewedAt": "2026-09-21T23:40:00+08:00", "updatedAt": "2026-09-21T23:40:00+08:00"
+    "id": "yinlun-20260922",
+    "title": "浙江银轮新能源热管理系统有限公司专场宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-22T15:00:00+08:00",
+    "endAt": "2026-09-22T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福州大学机械北415",
+    "companies": [
+      "浙江银轮新能源热管理系统有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "设计工程师",
+        "salary": "面议",
+        "education": "本科及以上",
+        "majors": [
+          "机械类",
+          "车辆类专业为主",
+          "智能感知工程类",
+          "仪器科学与技术",
+          "电子信息类",
+          "测控工程类",
+          "自动化类专业少量招收"
+        ],
+        "location": "浙江台州",
+        "headcount": 10
+      },
+      {
+        "title": "质量工程师",
+        "salary": "面议",
+        "education": "本科及以上",
+        "majors": [
+          "机械类",
+          "车辆类",
+          "能动类等工科专业"
+        ],
+        "location": "浙江台州",
+        "headcount": 10
+      }
+    ],
+    "majorTags": [
+      "自动化",
+      "电子信息",
+      "理工科"
+    ],
+    "applicationUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=3c6e4099a2af421d7cb4fff4148bcabc",
+    "sourceUrl": "http://fjrclh.fzu.edu.cn/cms/xjhdetail.html?id=3c6e4099a2af421d7cb4fff4148bcabc",
+    "sourceName": "福建人才联合网（福州大学）",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-21T23:40:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-longyuan-210209", "title": "龙源环保运营板块2027年校园招聘", "eventType": "宣讲会", "startAt": "2026-09-22T14:00:00+08:00", "endAt": "2026-09-22T17:00:00+08:00", "mode": "线下", "venue": "福建理工大学至勤楼D1-402学术报告厅", "companies": ["龙源环保运营板块"],
-    "jobs": [{ "title": "检修工、检测分析员", "salary": "5000–10000元/月", "education": "本科", "majors": ["电气工程与智能控制", "电气工程及其自动化", "建筑电气与智能化"], "location": "福建福清", "headcount": null }],
-    "majorTags": ["电气", "智能控制"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2915365/from_type/3/from_id/210209", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210209", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-longyuan-210209",
+    "title": "龙源环保运营板块2027年校园招聘",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-22T14:00:00+08:00",
+    "endAt": "2026-09-22T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学至勤楼D1-402学术报告厅",
+    "companies": [
+      "龙源环保运营板块"
+    ],
+    "jobs": [
+      {
+        "title": "检修工",
+        "salary": "5000–10000元/月",
+        "education": "本科",
+        "majors": [
+          "智能制造工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电气工程与智能控制",
+          "电气工程及其自动化",
+          "机械工程"
+        ],
+        "location": "福建省福清市",
+        "headcount": null
+      },
+      {
+        "title": "检测分析员",
+        "salary": "5000–10000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "电气工程与智能控制",
+          "其他专业"
+        ],
+        "location": "福建省福清市",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "智能控制"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2915365/from_type/3/from_id/210209",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210209",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-keda-209669", "title": "福建科达新能源科技有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T19:00:00+08:00", "endAt": "2026-09-22T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学博雅1#-204", "companies": ["福建科达新能源科技有限公司"],
-    "jobs": [{ "title": "制造管培生", "salary": "6000–8000元/月", "education": "本科", "majors": ["不限专业"], "location": "福建大田", "headcount": null }],
-    "majorTags": ["不限专业"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2907510/from_type/3/from_id/209669", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209669", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-keda-209669",
+    "title": "福建科达新能源科技有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-22T19:00:00+08:00",
+    "endAt": "2026-09-22T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博雅1#-204",
+    "companies": [
+      "福建科达新能源科技有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "制造管培生",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省大田县",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2907510/from_type/3/from_id/209669",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209669",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-xiamen-tungsten-209164", "title": "厦钨电机工业有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T19:00:00+08:00", "endAt": "2026-09-22T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学旗山南区博雅1-204", "companies": ["厦钨电机工业有限公司"],
-    "jobs": [{ "title": "研发储备干部", "salary": "7000–10000元/月", "education": "本科", "majors": ["不限专业"], "location": "福建厦门", "headcount": null }],
-    "majorTags": ["不限专业"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2904458/from_type/3/from_id/209164", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209164", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-xiamen-tungsten-209164",
+    "title": "厦钨电机工业有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-22T19:00:00+08:00",
+    "endAt": "2026-09-22T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学旗山南区博雅1-204",
+    "companies": [
+      "厦钨电机工业有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "研发储备干部",
+        "salary": "7000–10000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省厦门市集美区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2904458/from_type/3/from_id/209164",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209164",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-pupu-208837", "title": "朴朴科技（福建）有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-09-22T19:00:00+08:00", "endAt": "2026-09-22T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学大教-西1", "companies": ["朴朴科技（福建）有限公司"],
-    "jobs": [{ "title": "门店管培生、IT产品经理等", "salary": "6000–8000元/月", "education": "本科", "majors": ["不限专业", "电子信息工程"], "location": "福建福州", "headcount": null }],
-    "majorTags": ["不限专业", "电子信息"], "applicationUrl": "https://fjut.jysd.com/teachin/view/id/208837", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/208837", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-pupu-208837",
+    "title": "朴朴科技（福建）有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-22T19:00:00+08:00",
+    "endAt": "2026-09-22T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学大教-西1",
+    "companies": [
+      "朴朴科技（福建）有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "门店管培生（店内）",
+        "salary": "6000–7000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省福州市台江区",
+        "headcount": null
+      },
+      {
+        "title": "门店管培生（配送）",
+        "salary": "6000–7000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省福州市台江区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2896373/from_type/3/from_id/208837",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/208837",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-fulongma-209503", "title": "福龙马集团股份有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-09-23T14:00:00+08:00", "endAt": "2026-09-23T17:00:00+08:00", "mode": "线下", "venue": "福建理工大学博雅1#-302", "companies": ["福龙马集团股份有限公司"],
-    "jobs": [{ "title": "电气工程师、销售经理、管培生（正文另写16:30–17:30，请提前确认）", "salary": "5000–8000元/月", "education": "本科及以上", "majors": ["电气工程与智能控制", "电气工程及其自动化", "电气工程", "不限专业"], "location": "福建龙岩、全国", "headcount": null }],
-    "majorTags": ["电气", "智能控制", "不限专业"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2896262/from_type/3/from_id/209503", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209503", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-fulongma-209503",
+    "title": "福龙马集团股份有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-23T14:00:00+08:00",
+    "endAt": "2026-09-23T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博雅1#-302",
+    "companies": [
+      "福龙马集团股份有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "销售经理",
+        "salary": "5000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省龙岩市新罗区",
+        "headcount": null
+      },
+      {
+        "title": "电气工程师",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "电气工程与智能控制",
+          "电气工程及其自动化",
+          "电气工程"
+        ],
+        "location": "福建省龙岩市新罗区",
+        "headcount": null
+      },
+      {
+        "title": "管培生",
+        "salary": "5000–6000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省龙岩市新罗区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "智能控制",
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2115182/from_type/3/from_id/209503",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209503",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-weien-209670", "title": "厦门唯恩电气有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-09-23T18:00:00+08:00", "endAt": "2026-09-23T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学博学4#-102", "companies": ["厦门唯恩电气有限公司"],
-    "jobs": [{ "title": "QE工程师、采购专员/助理", "salary": "7000–10000元/月", "education": "本科", "majors": ["电气工程及其自动化"], "location": "福建厦门", "headcount": null }],
-    "majorTags": ["电气", "自动化"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2907539/from_type/3/from_id/209670", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209670", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-weien-209670",
+    "title": "厦门唯恩电气有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-23T18:00:00+08:00",
+    "endAt": "2026-09-23T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博学4#-102",
+    "companies": [
+      "厦门唯恩电气有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "QE工程师",
+        "salary": "7000–10000元/月",
+        "education": "本科",
+        "majors": [
+          "工业工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "材料成型及控制工程",
+          "电气工程及其自动化"
+        ],
+        "location": "福建省厦门市翔安区",
+        "headcount": null
+      },
+      {
+        "title": "采购专员/助理",
+        "salary": "7000–10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械设计制造及其自动化",
+          "电气工程及其自动化"
+        ],
+        "location": "福建省厦门市翔安区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2907539/from_type/3/from_id/209670",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209670",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-sineng-209043", "title": "上能电气股份有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-09-23T18:00:00+08:00", "endAt": "2026-09-23T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学博学2#-206", "companies": ["上能电气股份有限公司"],
-    "jobs": [{ "title": "硬件、DSP软件、嵌入式软件、电气及器件工程师等", "salary": "6000–25000元/月", "education": "本科及以上", "majors": ["电气工程", "电子信息", "通信工程", "嵌入式开发", "不限专业"], "location": "深圳、无锡、苏州", "headcount": null }],
-    "majorTags": ["电气", "电子信息", "通信", "嵌入式开发", "不限专业"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2378655/from_type/3/from_id/209043", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209043", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-sineng-209043",
+    "title": "上能电气股份有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-23T18:00:00+08:00",
+    "endAt": "2026-09-23T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博学2#-206",
+    "companies": [
+      "上能电气股份有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "硬件工程师（深圳、无锡、苏州）",
+        "salary": "15000–25000元/月",
+        "education": "硕士",
+        "majors": [
+          "电气工程"
+        ],
+        "location": "广东省深圳市光明区",
+        "headcount": null
+      },
+      {
+        "title": "DSP软件工程师（深圳、无锡）",
+        "salary": "15000–25000元/月",
+        "education": "硕士",
+        "majors": [
+          "电气工程"
+        ],
+        "location": "广东省深圳市光明区",
+        "headcount": null
+      },
+      {
+        "title": "硬件测试工程师（深圳、无锡）",
+        "salary": "10000–15000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "电子信息工程",
+          "电气工程及其自动化",
+          "电子信息",
+          "电气工程"
+        ],
+        "location": "广东省深圳市光明区",
+        "headcount": null
+      },
+      {
+        "title": "嵌入式软件工程师（深圳、无锡、苏州)）",
+        "salary": "8000–13000元/月",
+        "education": "本科",
+        "majors": [
+          "信息与计算科学",
+          "物联网工程",
+          "网络空间安全",
+          "计算机科学与技术",
+          "软件工程",
+          "通信工程"
+        ],
+        "location": "广东省深圳市光明区",
+        "headcount": null
+      },
+      {
+        "title": "认证测试工程师（深圳）",
+        "salary": "8000–13000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "电气工程及其自动化"
+        ],
+        "location": "江苏省无锡市惠山区",
+        "headcount": null
+      },
+      {
+        "title": "电气工程师",
+        "salary": "8000–13000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "电气工程及其自动化"
+        ],
+        "location": "广东省深圳市光明区",
+        "headcount": null
+      },
+      {
+        "title": "HR专员",
+        "salary": "6000–11000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "江苏省无锡市惠山区",
+        "headcount": null
+      },
+      {
+        "title": "器件工程师（无锡）",
+        "salary": "6000–11000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "电气工程及其自动化"
+        ],
+        "location": "江苏省无锡市惠山区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "电子信息",
+      "通信",
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2378655/from_type/3/from_id/209043",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209043",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-yealink-209314", "title": "厦门亿联网络技术股份有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-09-23T19:00:00+08:00", "endAt": "2026-09-23T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学博学4#-101", "companies": ["厦门亿联网络技术股份有限公司"],
-    "jobs": [{ "title": "C++工程师、海外售前工程师、计划工程师、营运专员", "salary": "6000–12000元/月", "education": "本科及以上", "majors": ["电子信息工程", "电气工程及其自动化", "通信工程", "不限专业"], "location": "福建厦门", "headcount": null }],
-    "majorTags": ["电子信息", "电气", "自动化", "通信", "不限专业"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2892733/from_type/3/from_id/209314", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209314", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-yealink-209314",
+    "title": "厦门亿联网络技术股份有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-23T19:00:00+08:00",
+    "endAt": "2026-09-23T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博学4#-101",
+    "companies": [
+      "厦门亿联网络技术股份有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "C++工程师",
+        "salary": "7000–12000元/月",
+        "education": "不限",
+        "majors": [
+          "人工智能",
+          "信息与计算科学",
+          "数据科学与大数据技术",
+          "物联网工程",
+          "电子信息工程",
+          "网络空间安全",
+          "计算机科学与技术",
+          "软件工程",
+          "计算机技术"
+        ],
+        "location": "福建省厦门市湖里区",
+        "headcount": null
+      },
+      {
+        "title": "海外售前工程师",
+        "salary": "7000–12000元/月",
+        "education": "本科",
+        "majors": [
+          "人工智能",
+          "信息与计算科学",
+          "信息管理与信息系统",
+          "建筑电气与智能化",
+          "数据科学与大数据技术",
+          "智能制造工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "物联网工程",
+          "电子信息工程",
+          "电气工程及其自动化",
+          "网络空间安全",
+          "计算机科学与技术",
+          "车辆工程",
+          "软件工程",
+          "通信工程"
+        ],
+        "location": "福建省厦门市湖里区",
+        "headcount": null
+      },
+      {
+        "title": "计划工程师",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省厦门市湖里区",
+        "headcount": null
+      },
+      {
+        "title": "营运专员",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省厦门市湖里区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "电子信息",
+      "通信",
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2892733/from_type/3/from_id/209314",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209314",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-jinjiang-210169", "title": "晋江半导体产业专场宣讲招聘活动", "eventType": "宣讲会", "startAt": "2026-09-24T14:00:00+08:00", "endAt": "2026-09-24T17:00:00+08:00", "mode": "线下", "venue": "福建理工大学大教-西3", "companies": ["福建华清电子材料科技有限公司", "中探探针（福建）有限公司", "胜科纳米（福建）有限公司", "福建晋泉微电子有限公司", "米豆科技（泉州）有限公司"],
-    "jobs": [{ "title": "研发工程师、设备助理工程师", "salary": "6000–13000元/月", "education": "本科", "majors": ["微电子科学与工程", "电子信息工程", "电气工程及其自动化", "通信工程"], "location": "福建晋江", "headcount": null }],
-    "majorTags": ["半导体", "微电子", "电子信息", "电气", "自动化", "通信"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2914847/from_type/3/from_id/210169", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210169", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-jinjiang-210169",
+    "title": "晋江半导体产业专场宣讲招聘活动",
+    "eventType": "宣讲会",
+    "startAt": "2026-09-24T14:00:00+08:00",
+    "endAt": "2026-09-24T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学大教-西3",
+    "companies": [
+      "福建华清电子材料科技有限公司",
+      "中探探针（福建）有限公司",
+      "胜科纳米（福建）有限公司",
+      "福建晋泉微电子有限公司",
+      "米豆科技（泉州）有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "研发工程师",
+        "salary": "8000–13000元/月",
+        "education": "本科",
+        "majors": [
+          "微电子科学与工程",
+          "电子信息工程"
+        ],
+        "location": "福建省晋江市",
+        "headcount": null
+      },
+      {
+        "title": "设备助理工程师",
+        "salary": "6000–10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械设计制造及其自动化",
+          "电气工程及其自动化"
+        ],
+        "location": "福建省晋江市",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "电子信息",
+      "电子类",
+      "微电子"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2914847/from_type/3/from_id/210169",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210169",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-jomoo-209902", "title": "九牧厨卫股份有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-10-10T18:00:00+08:00", "endAt": "2026-10-10T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学博雅2#-201", "companies": ["九牧厨卫股份有限公司"],
-    "jobs": [{ "title": "硬件设计、软件研发、测试分析等（专业要求待企业确认）", "salary": "7000–8000元/月（系统关联岗位）", "education": "本科", "majors": ["电子研发相关方向（简章未逐项标明）"], "location": "全国、上海、深圳、厦门、泉州", "headcount": null }],
-    "majorTags": ["电子", "理工科"], "applicationUrl": "https://fjut.jysd.com/teachin/view/id/209902", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209902", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-jomoo-209902",
+    "title": "九牧厨卫股份有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-10-10T18:00:00+08:00",
+    "endAt": "2026-10-10T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博雅2#-201",
+    "companies": [
+      "九牧厨卫股份有限公司"
+    ],
+    "jobs": [],
+    "majorTags": [],
+    "applicationUrl": "https://fjut.jysd.com/teachin/view/id/209902",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209902",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-huodan-208964", "title": "福州火蛋科技有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-10-13T18:00:00+08:00", "endAt": "2026-10-13T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学博雅1#-302", "companies": ["福州火蛋科技有限公司"],
-    "jobs": [{ "title": "IT产品经理、产品开发、推广运营、执行采购等", "salary": "6000–11000元/月", "education": "本科及以上", "majors": ["电子信息工程", "新一代电子信息技术", "不限专业"], "location": "福建闽侯", "headcount": null }],
-    "majorTags": ["电子信息", "不限专业"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2897384/from_type/3/from_id/208964", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/208964", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-huodan-208964",
+    "title": "福州火蛋科技有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-10-13T18:00:00+08:00",
+    "endAt": "2026-10-13T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博雅1#-302",
+    "companies": [
+      "福州火蛋科技有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "推广运营",
+        "salary": "6000–11000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省闽侯县",
+        "headcount": null
+      },
+      {
+        "title": "产品开发",
+        "salary": "6000–11000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省闽侯县",
+        "headcount": null
+      },
+      {
+        "title": "IT产品经理",
+        "salary": "6000–11000元/月",
+        "education": "本科",
+        "majors": [
+          "信息与计算科学",
+          "信息管理与信息系统",
+          "数据科学与大数据技术",
+          "物联网工程",
+          "电子信息工程",
+          "网络空间安全",
+          "计算机科学与技术",
+          "软件工程"
+        ],
+        "location": "福建省闽侯县",
+        "headcount": null
+      },
+      {
+        "title": "物流专员",
+        "salary": "6000–11000元/月",
+        "education": "不限",
+        "majors": [
+          "交通运输",
+          "信息管理与信息系统",
+          "国际经济与贸易",
+          "工业工程",
+          "智慧交通",
+          "智能科学与技术",
+          "物流管理",
+          "交通运输工程",
+          "新一代电子信息技术（含量子技术等）",
+          "物流工程与管理"
+        ],
+        "location": "福建省闽侯县",
+        "headcount": null
+      },
+      {
+        "title": "执行采购",
+        "salary": "6000–11000元/月",
+        "education": "不限",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "福建省闽侯县",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电子信息",
+      "新一代电子信息技术",
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2897343/from_type/3/from_id/208964",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/208964",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-runner-210110", "title": "厦门建霖智慧家居股份有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-10-14T15:00:00+08:00", "endAt": "2026-10-14T17:00:00+08:00", "mode": "线下", "venue": "福建理工大学博雅1#-301", "companies": ["厦门建霖智慧家居股份有限公司"],
-    "jobs": [{ "title": "自动化设计、自动化PLC电控设计、QA等", "salary": "固薪＋绩效/加班费＋13薪＋年终奖", "education": "本科及以上", "majors": ["自动化", "电控", "机器人"], "location": "厦门、漳州、宁波", "headcount": null }],
-    "majorTags": ["自动化", "智能控制"], "applicationUrl": "https://fjut.jysd.com/teachin/view/id/210110", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210110", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-runner-210110",
+    "title": "厦门建霖智慧家居股份有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-10-14T15:00:00+08:00",
+    "endAt": "2026-10-14T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博雅1#-301",
+    "companies": [
+      "厦门建霖智慧家居股份有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "QA",
+        "salary": null,
+        "education": "本科",
+        "majors": [
+          "机械",
+          "材料",
+          "自动化相关专业"
+        ],
+        "location": "厦门",
+        "headcount": null
+      },
+      {
+        "title": "机器人储干（研发）",
+        "salary": null,
+        "education": "硕士",
+        "majors": [
+          "机器人",
+          "人工智能相关专业"
+        ],
+        "location": "厦门",
+        "headcount": null
+      },
+      {
+        "title": "机器人储干（应用）",
+        "salary": null,
+        "education": "本科",
+        "majors": [
+          "机器人",
+          "人工智能相关专业"
+        ],
+        "location": "厦门",
+        "headcount": null
+      },
+      {
+        "title": "自动化设计",
+        "salary": null,
+        "education": "本科",
+        "majors": [
+          "自动化",
+          "机器人",
+          "机械",
+          "电控相关专业"
+        ],
+        "location": "漳州",
+        "headcount": null
+      },
+      {
+        "title": "自动化PLC电控设计",
+        "salary": null,
+        "education": "本科",
+        "majors": [
+          "电控",
+          "机器人相关专业"
+        ],
+        "location": "漳州",
+        "headcount": null
+      },
+      {
+        "title": "表面处理开发（PVD）",
+        "salary": null,
+        "education": "本科",
+        "majors": [
+          "化工",
+          "自动化",
+          "机械相关专业"
+        ],
+        "location": "厦门",
+        "headcount": null
+      },
+      {
+        "title": "PE/IE",
+        "salary": null,
+        "education": "本科",
+        "majors": [
+          "机械",
+          "工业工程",
+          "机器人",
+          "材料相关专业"
+        ],
+        "location": "厦门",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "智能控制",
+      "自动化"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/teachin/view/id/210110",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210110",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-deppon-209814", "title": "上海德邦物流有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-10-14T18:00:00+08:00", "endAt": "2026-10-14T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学博学4#-102", "companies": ["上海德邦物流有限公司"],
-    "jobs": [{ "title": "海豚管培生（站点方向）", "salary": "6000–8000元/月", "education": "本科", "majors": ["不限专业"], "location": "上海", "headcount": null }],
-    "majorTags": ["不限专业"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2909312/from_type/3/from_id/209814", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209814", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-deppon-209814",
+    "title": "上海德邦物流有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-10-14T18:00:00+08:00",
+    "endAt": "2026-10-14T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博学4#-102",
+    "companies": [
+      "上海德邦物流有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "海豚管培生（站点方向）",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "上海市青浦区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2909312/from_type/3/from_id/209814",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209814",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-walmart-210118", "title": "沃尔玛中国2027届校园招聘宣讲会", "eventType": "宣讲会", "startAt": "2026-10-15T18:00:00+08:00", "endAt": "2026-10-15T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学学术报告厅", "companies": ["沃尔玛中国"],
-    "jobs": [{ "title": "沃尔玛中国2027届校园招聘", "salary": "8000–10000元/月", "education": "本科及以上", "majors": ["不限专业"], "location": "广东等", "headcount": null }],
-    "majorTags": ["不限专业"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2907975/from_type/3/from_id/210118", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210118", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-walmart-210118",
+    "title": "沃尔玛中国2027届校园招聘宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-10-15T18:00:00+08:00",
+    "endAt": "2026-10-15T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学学术报告厅",
+    "companies": [
+      "沃尔玛中国"
+    ],
+    "jobs": [
+      {
+        "title": "沃尔玛中国2027届校园招聘简章",
+        "salary": "8000–10000元/月",
+        "education": "本科",
+        "majors": [
+          "不限专业"
+        ],
+        "location": "广东省",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "不限专业"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2907975/from_type/3/from_id/210118",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210118",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-yilian-210229", "title": "深圳壹连科技股份有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-10-21T18:00:00+08:00", "endAt": "2026-10-21T21:00:00+08:00", "mode": "线下", "venue": "福建理工大学旗山南区博雅1#-204", "companies": ["深圳壹连科技股份有限公司"],
-    "jobs": [{ "title": "校招生", "salary": "6000–8000元/月", "education": "本科", "majors": ["工科类", "电气工程及自动化", "软件工程"], "location": "广东深圳", "headcount": null }],
-    "majorTags": ["理工科", "电气", "自动化"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2915647/from_type/3/from_id/210229", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210229", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-yilian-210229",
+    "title": "深圳壹连科技股份有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-10-21T18:00:00+08:00",
+    "endAt": "2026-10-21T21:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学旗山南区博雅1#-204",
+    "companies": [
+      "深圳壹连科技股份有限公司"
+    ],
+    "jobs": [],
+    "majorTags": [],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2915647/from_type/3/from_id/210229",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210229",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-teld-210257", "title": "特来电新能源股份有限公司2027届校园招聘宣讲会", "eventType": "宣讲会", "startAt": "2026-10-22T14:00:00+08:00", "endAt": "2026-10-22T17:00:00+08:00", "mode": "线下", "venue": "福建理工大学大教-西3", "companies": ["特来电新能源股份有限公司"],
-    "jobs": [{ "title": "嵌入式软硬件、电力电子、电控、测试、售前及运维工程师等", "salary": "6000–8000元/月", "education": "本科及以上", "majors": ["电气", "电力电子", "电子信息", "通信", "自动化", "微电子", "理工科"], "location": "青岛、西安、南京及全国", "headcount": 266 }],
-    "majorTags": ["电气", "电力电子", "电子信息", "通信", "自动化", "微电子", "嵌入式开发", "理工科"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2915947/from_type/3/from_id/210257", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210257", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-teld-210257",
+    "title": "特来电新能源股份有限公司2027届校园招聘宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-10-22T14:00:00+08:00",
+    "endAt": "2026-10-22T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学大教-西3",
+    "companies": [
+      "特来电新能源股份有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "营销经理",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "微电子科学与工程",
+          "智能制造工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电子信息工程",
+          "电气工程与智能控制",
+          "电气工程及其自动化",
+          "车辆工程",
+          "通信工程"
+        ],
+        "location": "山东省青岛市崂山区",
+        "headcount": null
+      },
+      {
+        "title": "运营经理",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "微电子科学与工程",
+          "智能制造工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电子信息工程",
+          "电气工程与智能控制",
+          "电气工程及其自动化",
+          "车辆工程",
+          "通信工程"
+        ],
+        "location": "山东省青岛市崂山区",
+        "headcount": null
+      },
+      {
+        "title": "售前工程师",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "微电子科学与工程",
+          "智能制造工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电子信息工程",
+          "电气工程与智能控制",
+          "电气工程及其自动化",
+          "车辆工程",
+          "通信工程"
+        ],
+        "location": "山东省青岛市崂山区",
+        "headcount": null
+      },
+      {
+        "title": "运行/运维工程师",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "建筑电气与智能化",
+          "微电子科学与工程",
+          "智能制造工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电子信息工程",
+          "电气工程与智能控制",
+          "电气工程及其自动化",
+          "车辆工程",
+          "通信工程"
+        ],
+        "location": "山东省青岛市崂山区",
+        "headcount": null
+      },
+      {
+        "title": "工程项目经理",
+        "salary": "6000–8000元/月",
+        "education": "本科",
+        "majors": [
+          "土木工程",
+          "工程管理",
+          "工程造价",
+          "建筑电气与智能化",
+          "微电子科学与工程",
+          "智能建造",
+          "电子信息工程",
+          "电气工程与智能控制",
+          "电气工程及其自动化",
+          "通信工程"
+        ],
+        "location": "山东省青岛市崂山区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "智能控制",
+      "电子信息",
+      "电子类",
+      "通信",
+      "微电子"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2915947/from_type/3/from_id/210257",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/210257",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   },
   {
-    "id": "fjut-intron-209466", "title": "上海英恒电子有限公司宣讲会", "eventType": "宣讲会", "startAt": "2026-10-22T15:00:00+08:00", "endAt": "2026-10-22T17:00:00+08:00", "mode": "线下", "venue": "福建理工大学博学7#-202", "companies": ["上海英恒电子有限公司"],
-    "jobs": [{ "title": "FAE、AE应用、销售及产品市场工程师", "salary": "8000–13000元/月", "education": "本科及以上", "majors": ["微电子", "电子信息", "电气工程及其自动化", "通信", "新一代电子信息技术", "嵌入式开发"], "location": "上海", "headcount": null }],
-    "majorTags": ["微电子", "电子信息", "电气", "自动化", "通信", "嵌入式开发"], "applicationUrl": "https://fjut.jysd.com/job/view/id/2685586/from_type/3/from_id/209466", "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209466", "sourceName": "福建理工大学就业网", "reviewStatus": "approved", "reviewedAt": "2026-09-22T00:10:00+08:00", "updatedAt": "2026-09-22T00:10:00+08:00"
+    "id": "fjut-intron-209466",
+    "title": "上海英恒电子有限公司宣讲会",
+    "eventType": "宣讲会",
+    "startAt": "2026-10-22T15:00:00+08:00",
+    "endAt": "2026-10-22T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学博学7#-202",
+    "companies": [
+      "上海英恒电子有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "FAE现场应用工程师",
+        "salary": "8000–13000元/月",
+        "education": "本科",
+        "majors": [
+          "微电子科学与工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电子信息工程",
+          "电气工程及其自动化",
+          "车辆工程",
+          "软件工程",
+          "通信工程",
+          "新一代电子信息技术（含量子技术等）"
+        ],
+        "location": "上海市浦东新区",
+        "headcount": null
+      },
+      {
+        "title": "AE应用工程师",
+        "salary": "8000–12000元/月",
+        "education": "本科",
+        "majors": [
+          "信息与计算科学",
+          "微电子科学与工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电子信息工程",
+          "电气工程及其自动化",
+          "车辆工程",
+          "软件工程",
+          "通信工程",
+          "新一代电子信息技术（含量子技术等）"
+        ],
+        "location": "上海市浦东新区",
+        "headcount": null
+      },
+      {
+        "title": "销售工程师",
+        "salary": "8000–13000元/月",
+        "education": "本科",
+        "majors": [
+          "微电子科学与工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电子信息工程",
+          "电气工程及其自动化",
+          "计算机科学与技术",
+          "车辆工程",
+          "通信工程",
+          "新一代电子信息技术（含量子技术等）"
+        ],
+        "location": "上海市浦东新区",
+        "headcount": null
+      },
+      {
+        "title": "产品市场工程师",
+        "salary": "8000–13000元/月",
+        "education": "本科",
+        "majors": [
+          "微电子科学与工程",
+          "机械电子工程",
+          "机械设计制造及其自动化",
+          "电子信息工程",
+          "车辆工程"
+        ],
+        "location": "上海市浦东新区",
+        "headcount": null
+      }
+    ],
+    "majorTags": [
+      "电气",
+      "电子信息",
+      "电子类",
+      "通信",
+      "微电子",
+      "新一代电子信息技术"
+    ],
+    "applicationUrl": "https://fjut.jysd.com/job/view/id/2685586/from_type/3/from_id/209466",
+    "sourceUrl": "https://fjut.jysd.com/teachin/view/id/209466",
+    "sourceName": "福建理工大学就业网",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T00:10:00+08:00",
+    "updatedAt": "2026-09-22T11:00:00+08:00"
   }
 ]
