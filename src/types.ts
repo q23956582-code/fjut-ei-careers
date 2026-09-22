@@ -3,6 +3,7 @@ export type EventMode = "线下" | "线上" | "混合";
 
 export interface Job {
   title: string;
+  company?: string | null;
   salary: string | null;
   education: string | null;
   majors: string[];

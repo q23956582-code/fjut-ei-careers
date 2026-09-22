@@ -60,6 +60,11 @@ describe("recruitment domain", () => {
     });
     expect(event.companies).toHaveLength(55);
     expect(event.jobs).toHaveLength(126);
+    expect(event.jobs[0]).toMatchObject({
+      title: "C++开发工程师（初级）",
+      company: "昇捷丰标识科技（厦门）有限公司",
+    });
+    expect(event.jobs.every((job) => Boolean(job.company))).toBe(true);
     expect(event.majorTags).toEqual(["电气/能源/动力类", "电子/通信/自动化", "理工科", "不限专业"]);
     expect(summarizeEducation(event.jobs)).toBe("本科、研究生");
   });

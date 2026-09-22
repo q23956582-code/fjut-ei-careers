@@ -5,6 +5,6 @@
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important}.day{animation:none!important;opacity:1!important;filter:none!important}}
 
 .day{grid-template-columns:148px 24px 1fr}.date{padding-right:18px}.date b{white-space:nowrap}.job-list{border-top:1px solid var(--line)}.job{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 24px;padding:14px 2px;border-bottom:1px solid var(--line);border-radius:0;background:transparent}.job b{min-width:0}.job-salary{color:var(--accent);font-size:12px;font-weight:700;white-space:nowrap}.job p{grid-column:1/-1;margin:0}
-.job-majors{line-height:1.65}.job-majors span{margin-right:8px;color:var(--ink);font-weight:700}
+.job-company,.job-majors{line-height:1.65}.job-company span,.job-majors span{margin-right:8px;color:var(--ink);font-weight:700}
 .event-facts{margin:0}.event-facts div{display:grid;grid-template-columns:max-content minmax(0,1fr);padding:2px 0;border:0}.event-facts dt,.event-facts dd{font-size:12px;line-height:1.6}.event-facts dt{color:var(--muted)}.event-facts dd{color:var(--ink)}
 @media(max-width:760px){.day{grid-template-columns:92px 18px 1fr}.date{padding-right:8px}.date b{font-size:20px}.job{grid-template-columns:1fr}.job-salary,.job p{grid-column:1}}

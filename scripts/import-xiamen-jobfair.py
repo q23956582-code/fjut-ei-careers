@@ -35,6 +35,7 @@ def main():
             companies.append(company)
         jobs.append({
             "title": title,
+            "company": company,
             "salary": f"{str(row[27]).strip()}元/月" if row[27] else None,
             "education": str(row[25]).strip() if row[25] else None,
             "majors": [item.strip() for item in majors.split(",") if item.strip()],
