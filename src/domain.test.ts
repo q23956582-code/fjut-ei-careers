@@ -50,6 +50,20 @@ describe("recruitment domain", () => {
     expect(summarizeEducation([{ ...job, education: null }])).toBe("未公布");
   });
 
+  it("includes the verified Xiamen job fair and only its relevant jobs", () => {
+    const event = (rawEvents as RecruitmentEvent[]).find((item) => item.id === "xiamen-tongan-fjut-20260923")!;
+    expect(event).toMatchObject({
+      eventType: "双选会",
+      startAt: "2026-09-23T14:30:00+08:00",
+      endAt: "2026-09-23T17:00:00+08:00",
+      venue: "福建理工大学旗山校区北区风雨篮球场",
+    });
+    expect(event.companies).toHaveLength(55);
+    expect(event.jobs).toHaveLength(126);
+    expect(event.majorTags).toEqual(["电气/能源/动力类", "电子/通信/自动化", "理工科", "不限专业"]);
+    expect(summarizeEducation(event.jobs)).toBe("本科、研究生");
+  });
+
   it("rejects missing required fields and invalid URLs", () => {
     expect(validateEvent(base)).toBe(true);
     expect(validateEvent({ ...base, title: "" })).toBe(false);

@@ -1484,5 +1484,1496 @@
     "reviewStatus": "approved",
     "reviewedAt": "2026-09-22T00:10:00+08:00",
     "updatedAt": "2026-09-22T11:00:00+08:00"
+  },
+  {
+    "id": "xiamen-tongan-fjut-20260923",
+    "title": "职选厦一站·未来无限量——2026年秋季厦门（同安）校园招聘会（福建理工大学站）",
+    "eventType": "双选会",
+    "startAt": "2026-09-23T14:30:00+08:00",
+    "endAt": "2026-09-23T17:00:00+08:00",
+    "mode": "线下",
+    "venue": "福建理工大学旗山校区北区风雨篮球场",
+    "companies": [
+      "昇捷丰标识科技（厦门）有限公司",
+      "北京建工集团（厦门）建设有限公司",
+      "大博医疗科技股份有限公司",
+      "福建德文教育投资集团有限公司",
+      "福建福龙马环境服务有限公司",
+      "冠捷显示科技（厦门）有限公司",
+      "红杉根科技有限公司",
+      "柯尔微电子装备（厦门）有限公司",
+      "立达信物联科技股份有限公司",
+      "青祁（厦门）半导体有限公司",
+      "厦门灿坤实业股份有限公司",
+      "厦门创和美饲料科技有限公司",
+      "厦门东驭电子有限公司",
+      "厦门法拉电子股份有限公司",
+      "厦门飞博共创网络科技股份有限公司",
+      "厦门赫德曼电子科技有限公司",
+      "厦门鸿鹭联创工具有限公司",
+      "厦门宏发电力电器有限公司",
+      "厦门宏发汽车电子有限公司",
+      "厦门宏远达电器有限公司",
+      "厦门弘信电子科技集团股份有限公司",
+      "厦门华电开关有限公司",
+      "厦门慧联鸿疆科技有限公司",
+      "厦门健和共创进出口有限公司",
+      "厦门金龙旅行车有限公司",
+      "厦门精研自动化元件有限公司",
+      "厦门竣铭科技有限公司",
+      "厦门科司特电子股份有限公司",
+      "厦门凌矽半导体科技有限公司",
+      "厦门美赫电子有限公司",
+      "厦门明翰电气股份有限公司",
+      "厦门明社通科技有限公司",
+      "厦门幕岚达科技有限公司",
+      "厦门日上集团股份有限公司",
+      "厦门士兰集华微电子有限公司",
+      "厦门士兰集科微电子有限公司",
+      "厦门士兰明镓化合物半导体有限公司",
+      "厦门势拓伺服科技股份有限公司",
+      "厦门势拓御能科技有限公司",
+      "厦门市绿冷机电工程有限公司",
+      "厦门市普星电子科技有限公司",
+      "厦门市三安集成电路有限公司",
+      "厦门松霖科技股份有限公司",
+      "厦门通富微电子有限公司",
+      "厦门拓宝科技有限公司",
+      "厦门万学文化科技有限公司",
+      "厦门唯恩电气有限公司",
+      "厦门厦钨新能源材料股份有限公司",
+      "厦门阳光彼岸教育科技有限责任公司",
+      "厦门铱科塑胶精密模具有限公司",
+      "厦门亿联网络技术股份有限公司",
+      "厦门徕泽丰科技有限公司",
+      "翔声科技（厦门）有限公司",
+      "雅马哈发动机（厦门）信息系统有限公司",
+      "玉晶光电（厦门）有限公司"
+    ],
+    "jobs": [
+      {
+        "title": "C++开发工程师（初级）",
+        "salary": "6000-8500元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "计算机/互联网"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "FPGA研发工程师",
+        "salary": "7500-9000元/月",
+        "education": "本科",
+        "majors": [
+          "计算机/互联网",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "销售经理",
+        "salary": "6000-6500元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "2027校招岗位",
+        "salary": "6000-9500元/月",
+        "education": "本科",
+        "majors": [
+          "管理科学与工程学",
+          "电气/能源/动力类",
+          "政法类"
+        ],
+        "location": "福建省,北京",
+        "headcount": 8
+      },
+      {
+        "title": "质量管培生",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "管理科学与工程学",
+          "机械类",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 1
+      },
+      {
+        "title": "制造管培生",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "制药工程",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "助理研发工程师",
+        "salary": "6000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "材料冶金矿产类"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "助理PE工程师",
+        "salary": "6000-7000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 4
+      },
+      {
+        "title": "机械电气与信息工程学院专任教师",
+        "salary": "13000-25000元/月",
+        "education": "博士研究生",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "机械工程师",
+        "salary": "8000-9000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "龙岩市",
+        "headcount": 10
+      },
+      {
+        "title": "电气工程师",
+        "salary": "8000-8000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "龙岩市",
+        "headcount": 5
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "6000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化",
+          "管理科学与工程学"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "管培生",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "其他/无"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "深度学习应用工程师",
+        "salary": "8000-15000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "计算机/互联网"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "视觉工程师",
+        "salary": "7000-13000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "计算机/互联网"
+        ],
+        "location": "厦门市",
+        "headcount": 6
+      },
+      {
+        "title": "光学工程师",
+        "salary": "10000-20000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "计算机/互联网"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "电气工程师（运动控制+上位机程序开发））",
+        "salary": "7000-13000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 15
+      },
+      {
+        "title": "27届研发技术类岗位",
+        "salary": "6500-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类",
+          "计算机/互联网"
+        ],
+        "location": "厦门市,深圳市,漳州市",
+        "headcount": 50
+      },
+      {
+        "title": "27届综合职能类岗位",
+        "salary": "6000-9000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "财务会计/统计/审计/税务类",
+          "工商企业管理类"
+        ],
+        "location": "厦门市,漳州市,深圳市",
+        "headcount": 10
+      },
+      {
+        "title": "研发工程师（储备）",
+        "salary": "5000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "电子设计",
+        "salary": "6000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市,漳州市",
+        "headcount": 4
+      },
+      {
+        "title": "管培生",
+        "salary": "6500-10000元/月",
+        "education": "本科",
+        "majors": [
+          "其他/无"
+        ],
+        "location": "漳州市",
+        "headcount": 2
+      },
+      {
+        "title": "生产储备干部",
+        "salary": "5000-7000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "计算机/互联网",
+          "农林畜牧渔类"
+        ],
+        "location": "漳州市",
+        "headcount": 1
+      },
+      {
+        "title": "CCD工程师",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "计算机/互联网",
+          "仪器仪表类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 1
+      },
+      {
+        "title": "ie工程师",
+        "salary": "6000-9000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 1
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "8000-9000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类",
+          "机械类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "设备工程师",
+        "salary": "8000-9000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "AI产品开发",
+        "salary": "4000-6000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "计算机/互联网"
+        ],
+        "location": "厦门市",
+        "headcount": 1
+      },
+      {
+        "title": "AI全栈",
+        "salary": "4000-6000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "计算机/互联网"
+        ],
+        "location": "厦门市",
+        "headcount": 1
+      },
+      {
+        "title": "硬件工程师",
+        "salary": "5000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 3
+      },
+      {
+        "title": "亚马逊产品经理",
+        "salary": "5000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "生产储备干部（装备事业部）",
+        "salary": "5500-8000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "研发设计岗",
+        "salary": "8000-16000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 60
+      },
+      {
+        "title": "智能制造岗",
+        "salary": "8000-11000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "质量/检测岗",
+        "salary": "8000-11000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "电子/通信/自动化"
+        ],
+        "location": "集美区",
+        "headcount": 10
+      },
+      {
+        "title": "产品结构设计",
+        "salary": "13000-18000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "工艺开发",
+        "salary": "8000-12000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 3
+      },
+      {
+        "title": "软件开发",
+        "salary": "14000-20000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "硬件开发",
+        "salary": "14000-20000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "设备工程师",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "储备干部（技术类）",
+        "salary": "8000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "储备干部（研发类  ）",
+        "salary": "7000-11000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "销售工程师（国内/海外）",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类",
+          "其它外语类(俄德法韩等)",
+          "机械类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "项目/海外支持工程师",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类",
+          "机械类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "技术储备工程师（轮岗培养）",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "质量工程师",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类",
+          "机械类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "储备干部",
+        "salary": "6000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "材料冶金矿产类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "海外Instagram运营",
+        "salary": "5500-8000元/月",
+        "education": "本科",
+        "majors": [
+          "语言文学/文秘/新闻传播类",
+          "英语",
+          "市场营销/电子商务类"
+        ],
+        "location": "厦门市",
+        "headcount": 1
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "交通运输类",
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "研发工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化",
+          "交通运输类"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "嵌入式软件工程师（可应届生培养）",
+        "salary": "12000-20000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "计算机/互联网",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 3
+      },
+      {
+        "title": "电气研发工程师（可招应届培养）",
+        "salary": "10000-13000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类",
+          "仪器仪表类"
+        ],
+        "location": "厦门市",
+        "headcount": 3
+      },
+      {
+        "title": "机器人应用工程师",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "电气工程师",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "电源研发硬件工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市,同安区",
+        "headcount": 2
+      },
+      {
+        "title": "工程助理工程师",
+        "salary": "6000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类"
+        ],
+        "location": "厦门市,同安区",
+        "headcount": 4
+      },
+      {
+        "title": "电源研发软件工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "AE助理工程师（硬件方向）",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "模拟电路设计工程师（初级）",
+        "salary": "15000-25000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "模拟电路版图设计工程师",
+        "salary": "8000-15000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "数字IC设计工程师",
+        "salary": "15000-25000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "跟单员",
+        "salary": "8700-10900元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 3
+      },
+      {
+        "title": "采购员",
+        "salary": "8700-10900元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 3
+      },
+      {
+        "title": "销售工程师",
+        "salary": "9900-12400元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 30
+      },
+      {
+        "title": "售后工程师",
+        "salary": "5000-7000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "电气工程师",
+        "salary": "6000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类"
+        ],
+        "location": "翔安区",
+        "headcount": 10
+      },
+      {
+        "title": "技术支持工程师",
+        "salary": "6000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "AI管培生",
+        "salary": "8000-15000元/月",
+        "education": "本科",
+        "majors": [
+          "计算机/互联网",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "运营管培生",
+        "salary": "6000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "管理科学与工程学",
+          "市场营销/电子商务类",
+          "贸易/对外贸易/国际商务类"
+        ],
+        "location": "厦门市",
+        "headcount": 15
+      },
+      {
+        "title": "品管储干",
+        "salary": "7000-7500元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类",
+          "建筑/装饰/路桥/规划类"
+        ],
+        "location": "漳州市,厦门市,唐山市",
+        "headcount": 5
+      },
+      {
+        "title": "生产储干",
+        "salary": "7000-7500元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "建筑/装饰/路桥/规划类"
+        ],
+        "location": "漳州市,厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "技术储干",
+        "salary": "7000-7500元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "建筑/装饰/路桥/规划类"
+        ],
+        "location": "厦门市,漳州市,唐山市",
+        "headcount": 5
+      },
+      {
+        "title": "12吋制造工程师",
+        "salary": "10000-14000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "12吋设备工程师",
+        "salary": "10000-14000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 8
+      },
+      {
+        "title": "12吋工艺工程师",
+        "salary": "10000-14000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "工艺整合类",
+        "salary": "12000-15000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化",
+          "化学/化工类",
+          "物理学"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "设备类",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "制造类",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "化学/化工类",
+          "物理学"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "工艺类",
+        "salary": "12000-15000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "工艺类",
+        "salary": "12000-15000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "化学/化工类",
+          "物理学"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "MES工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 1
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "8000-15000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 50
+      },
+      {
+        "title": "设备工程师",
+        "salary": "8000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 50
+      },
+      {
+        "title": "PIE工程师",
+        "salary": "10000-15000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "YE工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "物理学",
+          "化学/化工类"
+        ],
+        "location": "厦门市",
+        "headcount": 7
+      },
+      {
+        "title": "销售工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类",
+          "机械类",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "2027年校园招聘-应届生（技术储干）",
+        "salary": "6000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "力学"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "2027年校园招聘-应届生（研发储干）",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 15
+      },
+      {
+        "title": "设计大师",
+        "salary": "7000-9000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类",
+          "机械类",
+          "建筑/装饰/路桥/规划类"
+        ],
+        "location": "厦门市,思明区",
+        "headcount": 5
+      },
+      {
+        "title": "国际项目管理、国内项目管理",
+        "salary": "6000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "建筑/装饰/路桥/规划类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "电子工程师",
+        "salary": "6000-6500元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "翔安区",
+        "headcount": 2
+      },
+      {
+        "title": "业务员",
+        "salary": "6000-6500元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "语言文学/文秘/新闻传播类",
+          "英语"
+        ],
+        "location": "翔安区",
+        "headcount": 4
+      },
+      {
+        "title": "品质工程师",
+        "salary": "6000-6500元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "公共管理类",
+          "机械类"
+        ],
+        "location": "厦门市,翔安区",
+        "headcount": 2
+      },
+      {
+        "title": "软件测试工程师",
+        "salary": "6000-6500元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "翔安区",
+        "headcount": 1
+      },
+      {
+        "title": "硬件测试工程师",
+        "salary": "6000-6500元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化"
+        ],
+        "location": "翔安区",
+        "headcount": 2
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "5500-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "研发工程师",
+        "salary": "15000-25000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 9
+      },
+      {
+        "title": "设备工程师",
+        "salary": "6000-8000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": null,
+        "headcount": 30
+      },
+      {
+        "title": "器件模型工程师",
+        "salary": "15000-25000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "制程整合工程师",
+        "salary": "12000-18000元/月",
+        "education": "硕士研究生",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": null,
+        "headcount": 20
+      },
+      {
+        "title": "人力资源专员（2027届）",
+        "salary": "5000-7000元/月",
+        "education": "本科",
+        "majors": [
+          "其他/无"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "设备工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "化学/化工类",
+          "物理学"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "质量工程师",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "化学/化工类",
+          "机械类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "软件助理工程师（应届生）",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类",
+          "计算机/互联网"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "结构工程师-应届生",
+        "salary": "6000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "技术支持工程师-应届生",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "测试助理工程师-应届生",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "硬件助理工程师-应届",
+        "salary": "7000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "课程顾问/市场专员",
+        "salary": "5000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "其他/无"
+        ],
+        "location": "厦门市",
+        "headcount": 2
+      },
+      {
+        "title": "研发工程师",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "材料冶金矿产类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "采购专员",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "QE工程师",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 12
+      },
+      {
+        "title": "电气/自动化工程师",
+        "salary": "8000-12500元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市,三明市,宁德市",
+        "headcount": 20
+      },
+      {
+        "title": "工艺工程师",
+        "salary": "8000-12500元/月",
+        "education": "本科",
+        "majors": [
+          "材料冶金矿产类",
+          "化学/化工类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市,三明市,宁德市",
+        "headcount": 50
+      },
+      {
+        "title": "学习管理师",
+        "salary": "5000-6000元/月",
+        "education": "本科",
+        "majors": [
+          "其他/无"
+        ],
+        "location": null,
+        "headcount": 5
+      },
+      {
+        "title": "研发技术储干",
+        "salary": "8000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 3
+      },
+      {
+        "title": "校招制造类岗位",
+        "salary": "7000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "电气/能源/动力类",
+          "交通运输类"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      },
+      {
+        "title": "校招研发类岗位",
+        "salary": "8000-13000元/月",
+        "education": "本科",
+        "majors": [
+          "计算机/互联网",
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "设备电气助理工程师",
+        "salary": "6000-10000元/月",
+        "education": "本科",
+        "majors": [
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 3
+      },
+      {
+        "title": "研发储干",
+        "salary": "6500-8000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化",
+          "机械类",
+          "电气/能源/动力类"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "JAVA开发工程师",
+        "salary": "8000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 20
+      },
+      {
+        "title": "软件开发工程师",
+        "salary": "8000-12000元/月",
+        "education": "本科",
+        "majors": [
+          "电子/通信/自动化"
+        ],
+        "location": "厦门市",
+        "headcount": 5
+      },
+      {
+        "title": "工程部助理（副）工程师",
+        "salary": "6000-11000元/月",
+        "education": "本科",
+        "majors": [
+          "机械类",
+          "物理学",
+          "数学"
+        ],
+        "location": "厦门市",
+        "headcount": 10
+      }
+    ],
+    "majorTags": [
+      "电气/能源/动力类",
+      "电子/通信/自动化",
+      "理工科",
+      "不限专业"
+    ],
+    "applicationUrl": "https://app.xmrc.com.cn/JobFair/MeetingInfo/3bc3642321d4403b82d41162b37ec29a",
+    "sourceUrl": "https://mp.weixin.qq.com/s/swv7HJ0EkEFJm9FqgBTSQQ",
+    "sourceName": "厦门市人才服务中心",
+    "reviewStatus": "approved",
+    "reviewedAt": "2026-09-22T16:30:00+08:00",
+    "updatedAt": "2026-09-22T16:30:00+08:00"
   }
 ]
